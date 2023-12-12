@@ -8,3 +8,5 @@ master update to clash
 dev-fix update to clash
 
 안녕하세요. by wenying~
+
+test push ssh
