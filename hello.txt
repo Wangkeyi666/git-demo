@@ -6,3 +6,5 @@ dev-fix: ilove 泰梨
 master update to clash
 
 dev-fix update to clash
+
+by wenying
