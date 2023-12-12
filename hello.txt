@@ -2,3 +2,7 @@ hello git!
 文英到此一游~
 
 dev-fix: ilove 泰梨
+
+master update to clash
+
+dev-fix update to clash
